@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+	<title>nineblock</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<head>
+	<style type="text/css">
+	#box{
+		 margin: 5%;
+	}
+		.block{
+			float:left;
+			background: orange;
+			padding:0 30% 30% 0;
+			margin:0 1% 1% 0;
+			border-radius:15px;
+		}
+		
+	</style>
+</head>
+<body>
+<div id="box">
+	<div class="block"></div>
+	<div class="block"></div>
+	<div class="block"></div>
+	<div class="block"></div>
+	<div class="block"></div>
+	<div class="block"></div>
+	<div class="block"></div>
+	<div class="block"></div>
+	<div class="block"></div>
+</body>
+</html>
